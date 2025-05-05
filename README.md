@@ -16,5 +16,5 @@ returns back short url like
 https://short.ly/abc123
 ```
 
-when the user visits ```bash https://short.ly/abc123 ``` then he will be redirected to long
+when the user visits ``` https://short.ly/abc123 ``` then he will be redirected to long
 
